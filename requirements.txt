@@ -1,8 +1,5 @@
 streamlit==1.28.1
-numpy==1.26.4  # Versión precompilada compatible con Python 3.12
-scipy==1.11.4
-matplotlib==3.8.4
-plotly==5.22.0
+numpy==1.26.4
 pandas==2.2.2
 scikit-learn==1.5.1
 optuna==3.6.1
