@@ -1,0 +1,11 @@
+item_id,nombre,familia,subfamilia,porc_masa,densidad,tm_tg_c,mfi_visc,e_mod_gpa,obs,hidrogeno_pct
+CTB01,Cargo Transfer Bag,Textil,Nomex,0.92,1.38,NA,NA,3.0,"Aramida con hilos Nylon/PET (~8%)",3.5
+FOAM01,Foam Packaging,Plástico,PVDF,1.00,0.05,170,NA,0.05,"Espuma Zotek F30 (celdas cerradas)",3.8
+POUCH01,Drink Pouch,Compuesto,PE/PET/Al/EVOH,1.00,0.95,NA,NA,NA,"Laminar 65%PE/11%PET/24%Al (aprox)",9.6
+PEFOAM01,Plastazote LD45 FR,Plástico,PE,1.00,0.045,110,NA,0.04,"Espuma PE ignífuga",14.3
+NITR01,Guante Nitrilo,Plástico,NBR,1.00,1.00,NA,NA,0.2,"Nitrilo",9.0
+AL01,Panel Aluminio,Metal,Al,0.95,2.70,660,NA,69.0,"Restantes recubrimientos",0.0
+MGS1,Regolito simulante,Compuesto,MGS-1,1.00,1.60,NA,NA,5.0,"Filler ISRU",0.0
+OVER01,Overwrap de comida,Plástico,PE (LLDPE),1.00,0.92,120,NA,0.2,"Film de empaque/encogible",14.3
+LINER01,Liner polimérico (CTB),Compuesto,PE/EVOH/PE,1.00,0.94,115,NA,0.25,"Liner barrera multicapa",12.0
+KAP01,Cinta Kapton adhesiva,Compuesto,PI/Silicone,1.00,1.42,360,NA,2.5,"Cinta de poliimida con adhesivo silicona",3.0

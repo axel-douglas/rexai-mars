@@ -1,0 +1,5 @@
+target_id,nombre,uso,e_obj_gpa,sigma_obj_mpa,k_obj_w_mk,masa_max_kg,notas
+PANEL01,Panel hábitat,Aislamiento,1.0,15,0.2,25,"Baja conductividad, polímeros ricos en H"
+MUEBLE01,Mobiliario L2L,Estructural,2.0,25,0.3,20,"Rigidez media, bajo costo"
+BRICK01,Ladrillo ISRU,Compuesto,3.0,35,0.6,50,"MGS-1 20–40%"
+SHIELD01,Blindaje radiación,Protección,0.8,12,0.25,30,"Alta fracción H; opcional backing Al"
